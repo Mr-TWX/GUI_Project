@@ -1,0 +1,20 @@
+1	GK	Gianluigi Buffon	28 January 1978	
+12	GK	Morgan De Sanctis	26 March 1977	
+2	DF	Christian Maggio	11 February 1982	
+3	DF	Luca Antonelli	11 February 1987	
+5	DF	Mattia De Sciglio	20 October 1992	
+7	DF	Ignazio Abate	12 November 1986	
+15	DF	Andrea Barzagli	08 May 1981	
+17	DF	Andrea Ranocchia	16 February 1988	
+4	MF	Alessandro Florenzi	11 March 1991	
+6	MF	Andrea Poli	29 September 1989	
+8	MF	Claudio Marchisio	19 January 1986	
+16	MF	Alessio Cerci	23 July 1987	
+18	MF	Riccardo Montolivo	18 January 1985	
+20	MF	Antonio Candreva	28 February 1987	
+21	MF	Andrea Pirlo	19 May 1979	
+22	MF	Alessandro Diamanti	02 May 1983	
+9	FW	Mario Balotelli	12 August 1990	
+11	FW	Alberto Gilardino	07 May 1982	
+10	FW	Sebastian Giovinco	26 January 1987	
+14	FW	Stephan El Shaarawy	27 October 1992	
