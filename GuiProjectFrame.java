@@ -18,18 +18,18 @@ public class GuiProjectTMFrame extends JFrame
 	private static final GridBagConstraints c = new GridBagConstraints();
 
 	private static JLabel	background = new JLabel (new ImageIcon("ItalialogoTM.png")), //creates a label with a picture as background
-						titleLabel = new JLabel("ITALIAN NATIONAL FOOTBALL TEAM MEMBERS"), // creates the label with the title
-						instructionLabel = new JLabel("Click NEXT to show players info, click EXIT to close the program."),
-						numberLabel = new JLabel("Number:"),
-						numberDisplay = new JLabel("**"),
-						positionLabel = new JLabel("Position:"),
-						positionDisplay = new JLabel("**"),
-						nameLabel = new JLabel("Full name:"),
-       					nameDisplay = new JLabel("******* *******"),
-       					dateOfBirthLabel = new JLabel("Date of birth:"),
-        				dateOfBirthDisplay = new JLabel("DD-MM-YYYY");
+				titleLabel = new JLabel("ITALIAN NATIONAL FOOTBALL TEAM MEMBERS"), // creates the label with the title
+				instructionLabel = new JLabel("Click NEXT to show players info, click EXIT to close the program."),
+				numberLabel = new JLabel("Number:"),
+				numberDisplay = new JLabel("**"),
+				positionLabel = new JLabel("Position:"),
+				positionDisplay = new JLabel("**"),
+				nameLabel = new JLabel("Full name:"),
+       				nameDisplay = new JLabel("******* *******"),
+       				dateOfBirthLabel = new JLabel("Date of birth:"),
+        			dateOfBirthDisplay = new JLabel("DD-MM-YYYY");
 	private static JButton nextButton = new JButton("NEXT"),
-							exitButton = new JButton("EXIT");
+			       exitButton = new JButton("EXIT");
 	private static int numClicks = 0;
 
 
@@ -226,7 +226,7 @@ public class GuiProjectTMFrame extends JFrame
 									dateOfBirthDisplay.setText(element);
 									break;
 							default:	numberDisplay.setText("END OF SWITCH");
-										break;
+									break;
 						}//end switch
 						counter++; //increment the counter for number of tab found
 						j = i; // set j to the position of i
